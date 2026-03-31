@@ -22,7 +22,7 @@ npm or yarn
 
 Installation
 bash# Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ofeoritse-amiteye/Loveliess
 cd your-repo-name
 
 # Install dependencies
